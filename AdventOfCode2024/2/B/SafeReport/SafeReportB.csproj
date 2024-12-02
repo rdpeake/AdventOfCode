@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="copy &quot;$(ProjectDir)input_2.txt&quot; &quot;$(outDir)input.txt&quot;" />
+    <Exec Command="copy /Y &quot;$(ProjectDir)input_2.txt&quot; &quot;$(outDir)input.txt&quot;" />
   </Target>
 
 </Project>
