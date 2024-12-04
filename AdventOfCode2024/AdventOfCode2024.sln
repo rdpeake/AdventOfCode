@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MullItOver", "3\A\MullItOve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MullItOverB", "3\B\MullItOver\MullItOverB.csproj", "{478048ED-CAD5-4BCE-88F3-02249A5D4911}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceres Search", "4\A\Ceres Search\Ceres Search.csproj", "{A4506C19-C837-45E9-BCFD-A8EA7BD5234E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ceres SearchB", "4\B\Ceres Search\Ceres SearchB.csproj", "{82519CF2-40CF-4459-B3F4-B2894704FF9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{478048ED-CAD5-4BCE-88F3-02249A5D4911}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{478048ED-CAD5-4BCE-88F3-02249A5D4911}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{478048ED-CAD5-4BCE-88F3-02249A5D4911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4506C19-C837-45E9-BCFD-A8EA7BD5234E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4506C19-C837-45E9-BCFD-A8EA7BD5234E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4506C19-C837-45E9-BCFD-A8EA7BD5234E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4506C19-C837-45E9-BCFD-A8EA7BD5234E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82519CF2-40CF-4459-B3F4-B2894704FF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82519CF2-40CF-4459-B3F4-B2894704FF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82519CF2-40CF-4459-B3F4-B2894704FF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82519CF2-40CF-4459-B3F4-B2894704FF9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
