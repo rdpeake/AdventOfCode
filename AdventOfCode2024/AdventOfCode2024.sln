@@ -11,19 +11,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafeReport", "2\A\SafeRepor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafeReportB", "2\B\SafeReport\SafeReportB.csproj", "{14BBA3F2-9465-4AD8-A393-B631C264A549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MullItOver", "3\A\MullItOver\MullItOver.csproj", "{467E90F7-53ED-4DFB-8D28-279DDCFBD33C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MullItOver", "3\A\MullItOver\MullItOver.csproj", "{467E90F7-53ED-4DFB-8D28-279DDCFBD33C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MullItOverB", "3\B\MullItOver\MullItOverB.csproj", "{478048ED-CAD5-4BCE-88F3-02249A5D4911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceres Search", "4\A\Ceres Search\Ceres Search.csproj", "{A4506C19-C837-45E9-BCFD-A8EA7BD5234E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ceres Search", "4\A\Ceres Search\Ceres Search.csproj", "{A4506C19-C837-45E9-BCFD-A8EA7BD5234E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ceres SearchB", "4\B\Ceres Search\Ceres SearchB.csproj", "{82519CF2-40CF-4459-B3F4-B2894704FF9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print Queue", "5\A\Print Queue\Print Queue.csproj", "{F08C152D-D52C-46A5-BC0C-4C0ADF432459}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print Queue", "5\A\Print Queue\Print Queue.csproj", "{F08C152D-D52C-46A5-BC0C-4C0ADF432459}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print QueueB", "5\B\Print Queue\Print QueueB.csproj", "{80C85896-BBFC-44B2-A1DB-D0DD21CAB996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guard Gallivant", "6\A\Guard Gallivant\Guard Gallivant.csproj", "{EC886A2F-EA88-45CE-9056-0E813AAD020C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guard Gallivant", "6\A\Guard Gallivant\Guard Gallivant.csproj", "{EC886A2F-EA88-45CE-9056-0E813AAD020C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guard GallivantB", "6\B\Guard Gallivant\Guard GallivantB.csproj", "{21D628F6-33B7-4FAE-9855-6FB1F6FD95D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge Repair", "7\A\Bridge Repair\Bridge Repair.csproj", "{0E008C5D-143A-4AD2-902D-9DC5FE3A165A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge RepairB", "7\B\Bridge Repair\Bridge RepairB.csproj", "{4252A522-A1F8-49B6-8A5B-53FCE066BC7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{EC886A2F-EA88-45CE-9056-0E813AAD020C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC886A2F-EA88-45CE-9056-0E813AAD020C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC886A2F-EA88-45CE-9056-0E813AAD020C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D628F6-33B7-4FAE-9855-6FB1F6FD95D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D628F6-33B7-4FAE-9855-6FB1F6FD95D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D628F6-33B7-4FAE-9855-6FB1F6FD95D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D628F6-33B7-4FAE-9855-6FB1F6FD95D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E008C5D-143A-4AD2-902D-9DC5FE3A165A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E008C5D-143A-4AD2-902D-9DC5FE3A165A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E008C5D-143A-4AD2-902D-9DC5FE3A165A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E008C5D-143A-4AD2-902D-9DC5FE3A165A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4252A522-A1F8-49B6-8A5B-53FCE066BC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4252A522-A1F8-49B6-8A5B-53FCE066BC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4252A522-A1F8-49B6-8A5B-53FCE066BC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4252A522-A1F8-49B6-8A5B-53FCE066BC7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
