@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disk Fragmenter", "9\A\Disk
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Disk FragmenterB", "9\B\Disk Fragmenter\Disk FragmenterB.csproj", "{9DB2EA24-71BA-445D-96A0-D7BADD89180C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoof It", "10\A\Hoof It\Hoof It.csproj", "{73674D79-28B2-4FB2-896D-4D13A043A66A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hoof ItB", "10\B\Hoof It\Hoof ItB.csproj", "{1E6CF2AF-9999-476B-80A4-097AA99BC4FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{9DB2EA24-71BA-445D-96A0-D7BADD89180C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DB2EA24-71BA-445D-96A0-D7BADD89180C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DB2EA24-71BA-445D-96A0-D7BADD89180C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73674D79-28B2-4FB2-896D-4D13A043A66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73674D79-28B2-4FB2-896D-4D13A043A66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73674D79-28B2-4FB2-896D-4D13A043A66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73674D79-28B2-4FB2-896D-4D13A043A66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6CF2AF-9999-476B-80A4-097AA99BC4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6CF2AF-9999-476B-80A4-097AA99BC4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6CF2AF-9999-476B-80A4-097AA99BC4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6CF2AF-9999-476B-80A4-097AA99BC4FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
